@@ -1,4 +1,4 @@
-#Search-Pictures-App
+# Search-Pictures-App
 
 This app is small ReactJS app. You can search images
 and the images will be displayed with help of
